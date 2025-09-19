@@ -41,37 +41,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.tail42937.ts.net.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "95.60%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "95.60%",
-    "uptimeMonth": "95.60%",
-    "uptimeYear": "95.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1591,
     "timeDay": 1591,
     "timeWeek": 1591,
     "timeMonth": 1591,
     "timeYear": 1591,
-    "dailyMinutesDown": {
-      "2025-09-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jellyseerr",
     "url": "https://watch.tail42937.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/watch.tail42937.ts.net.ico",
     "slug": "jellyseerr",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 2596,
     "timeDay": 2596,
     "timeWeek": 2596,
     "timeMonth": 2596,
     "timeYear": 2596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-19": 0
+    }
   },
   {
     "name": "Actual Budget",
