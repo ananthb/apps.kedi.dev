@@ -15,8 +15,6 @@ sites:
     url: https://ab.tail42937.ts.net
   - name: Radicale
     url: https://cal.tail42937.ts.net
-  - name: Open WebUI
-    url: https://ai.tail42937.ts.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
