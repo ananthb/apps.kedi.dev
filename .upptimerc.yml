@@ -11,10 +11,16 @@ sites:
     url: https://tv.tail42937.ts.net
   - name: Jellyseerr
     url: https://watch.tail42937.ts.net
+  - name: 6A
+    url: https://6a.tail42937.ts.net
   - name: Actual Budget
     url: https://ab.tail42937.ts.net
+  - name: Vaultwarden
+    url: https://vault.tail42937.ts.net
   - name: Radicale
     url: https://cal.tail42937.ts.net
+  - name: Mealie
+    url: https://mle.tail42937.ts.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
