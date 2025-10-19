@@ -1,7 +1,7 @@
 url: https://vault.tail42937.ts.net
-status: up
-code: 200
-responseTime: 1866
-lastUpdated: 2025-10-19T12:28:48.859Z
+status: down
+code: 502
+responseTime: 1312
+lastUpdated: 2025-10-19T18:30:30.363Z
 startTime: 2025-10-15T20:06:00.012Z
 generator: Upptime <https://github.com/upptime/upptime>
